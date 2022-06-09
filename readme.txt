@@ -1,0 +1,2 @@
+All'interno del progetto, alcuni file hanno bisogno di risorse contenute in altre cartelle (per esempio le foto dei pannelli per la documentazione si trovano nella cartella foto). Non bisogna modificare quindi i nomi delle cartelle, neanche la cartella principale (ProgettoCaraffiAlex).
+Grazie per l'attenzione.
